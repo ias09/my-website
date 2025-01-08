@@ -37,6 +37,9 @@ const SupportingBox = (): JSX.Element => {
                 <Box href={personalInfo.socialMedia.GoogleScholar} label="GoogleScholar">
                     <IconImage path='/images/icons8-google-scholar.svg' name="GoogleScholar"/>
                 </Box>
+                <Box href={personalInfo.socialMedia.GitHub} label="GitHub">
+                    <IconImage path='/images/icons8-github-480.svg' name="GoogleScholar"/>
+                </Box>
             </div>
         </div>
         );
