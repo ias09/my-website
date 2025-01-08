@@ -10,7 +10,7 @@ const Index: NextPage<unknown> = () => (
     <>
         <About/>
         <PublicationList/>
-        <Teaching/>
+        {/* <Teaching/> */}
         <Education/>
     </>
 );
